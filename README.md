@@ -47,13 +47,56 @@
 5. python program to check armstrong number.
 6. python progrm to find armstrong number in an interval
 ## Python_assignment 8
-
-
-
-
-
-
-
-
-
-
+1. program to calculate the length of a string.
+2. program to find the character freuency in a string.
+3. program to get a single string from two given strings, seperated by a space nd swap the 1st character of each string.
+4. take input from the user and displays that input back in upper and lower cases.
+5. program to remove a new line.
+6. program to count occurences of a substring in a string.
+7. program to convert a string in a list.
+8. program to delete a character.
+9. program to print every character of a string entered by user in a new line using loop.
+10. program to find the length of a string "refrigerator" without using len function.
+## Python_assignment 9
+1. program tht prints integers from to00. but for multiples of 3, print 'fizz' instead of the number and for the multiples of 5, print 'buzz'. for numbers which are multiples of both 3 and 5, print 'fizzbuzz'.
+2. program to remove consecutive duplicates from the list.
+3. find unique elements in a list.
+4. function that checks if a number is in the given range or not (inclusive of high and low).
+## Python_assignment 10
+1. program to get a largest and smallest number from a list.
+2. program to remove duplicate from a list.
+3. program to check list is empty or not.
+4. program to clone or copy a list.
+5. Program to print a specified list after removing the 0th,4th and 5th elements.
+6. program to shuffle and print a specified list.
+7. program to get the difference between two lists.
+## Python_assignment 11
+1. write a python program to read an entire text file.
+2. write a python program to read first n lines of a file.
+3. Write a Python program to append text to a file and display the text.
+4. Write a Python program to read last n lines of a file.
+5. Write a Python program to read a file line by line store it into a variable.
+6. write a program to read a file line by line store it into a list.
+7. write a python program to read a file line by line store it into a array.
+8. Write a Python program to count the number of lines in a text file.
+9. write a python program to get the file size of a plain file.
+10. write a python program to copy the contents of a file into another.
+## Python_assignment 12
+1. python program to create a tuple.
+2. program to create a tuple with different data types.
+3. program to convert a tuple to a string.
+4. program to slice a tuple.
+5. program to find the length of a tuple.
+6. program to convert tuple to a dictionary.
+7. program to reverse a tuple.
+8. program to convert a list of tuples into a dictionary.
+9. program to convert a list to a tuple.
+## Python_assignment 13
+1. what is dictionary in python? explain with example.
+2. program to sum all the items in a list.
+3. program to create a list of empty dictionaries.
+4. program to concentrate following dictionaries to create a new one.
+## Python_assignment 14
+1. program to convert a tuple to a dictionary.
+2. program to convert list of tuples to dictionry.
+==================================================================================================
