@@ -1,4 +1,4 @@
-# Python_assignments
+# Python_assignments OR practice Q's from 0 - advance
 ## Python_assignment 1
 1. Write a program to design simple claculater for the following opertors
 2. Write a python program to calculate simple intrest.
